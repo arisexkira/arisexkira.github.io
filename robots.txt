@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arisexkira.github.io/sitemap.xml
